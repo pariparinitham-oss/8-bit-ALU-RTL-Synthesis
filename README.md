@@ -25,7 +25,9 @@ using Verilog HDL and synthesized it using Yosys.
 - alu_tb.v - Testbench
 - alu_gate.v - Synthesized netlist
 - alu_circuit.png - Circuit diagram
+## Circuit Diagram
 
+![ALU Circuit](alu_circuit.png)
 ## Results
 All eight ALU operations were simulated successfully.
 RTL synthesis was completed using Yosys.
@@ -35,4 +37,7 @@ RTL synthesis was completed using Yosys.
 
 ## Simulation Waveform
 
-![ALU Waveform](alu_waveform.png)
+![ALU Waveform](alu_waveform.png.gtkw)
+## Circuit Diagram
+
+![ALU Circuit](alu_circuit.png)
