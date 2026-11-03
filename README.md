@@ -1,4 +1,4 @@
-# 8-Bit ALU Design and RTL-to-Gate-Level Synthesis
+ # 8-Bit ALU Design and RTL-to-Gate-Level Synthesis
 
 ## Project Overview
 Designed and simulated an 8-bit Arithmetic Logic Unit (ALU)
@@ -29,3 +29,10 @@ using Verilog HDL and synthesized it using Yosys.
 ## Results
 All eight ALU operations were simulated successfully.
 RTL synthesis was completed using Yosys.
+## Circuit Diagram
+
+![ALU Circuit](alu_circuit.png)
+
+## Simulation Waveform
+
+![ALU Waveform](alu_waveform.png)
